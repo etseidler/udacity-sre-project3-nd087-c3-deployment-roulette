@@ -1,0 +1,12 @@
+NAME                           READY   STATUS    RESTARTS   AGE
+blue-7fb6ff6dd9-pv5jd          1/1     Running   0          9m35s
+blue-7fb6ff6dd9-pzghb          1/1     Running   0          9m35s
+blue-7fb6ff6dd9-tzqpm          1/1     Running   0          9m35s
+canary-v1-bdb7f878d-7j4sx      1/1     Running   0          9m36s
+canary-v1-bdb7f878d-f58ph      1/1     Running   0          9m36s
+canary-v1-bdb7f878d-mq5fw      1/1     Running   0          9m36s
+canary-v2-755b8b7b9b-9kcls     1/1     Running   0          4m21s
+canary-v2-755b8b7b9b-9vnh7     1/1     Running   0          8m32s
+canary-v2-755b8b7b9b-q4lhr     1/1     Running   0          4m21s
+debug                          1/1     Running   0          3m38s
+hello-world-86cc7df864-vjc7f   1/1     Running   0          9m38s

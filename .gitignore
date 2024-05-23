@@ -1,2 +1,4 @@
 .idea
-.terraform
+starter/infra/.terraform/
+starter/infra/.terraform.lock.hcl
+starter/infra/plan.tfplan
